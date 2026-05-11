@@ -100,7 +100,6 @@ Close.MouseButton1Click:Connect(function()
 	ScreenGui:Destroy()
 end)
 
--- DRAG
 local dragging = false
 local dragStart
 local startPos
