@@ -23,7 +23,7 @@ ScreenGui.Parent = game.CoreGui
 pcall(function()
 	StarterGui:SetCore("SendNotification", {
 		Title = "Information",
-		Text = "Hey! Script creator: @Берн0ва, his channel: @Lunary_Official",
+		Text = "Hey! Script creator: @Bern0va, his channel: @Lunary_Official",
 		Duration = 8
 	})
 end)
