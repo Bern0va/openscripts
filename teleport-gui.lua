@@ -244,8 +244,7 @@ local function addPositionToScroll(position, index)
             character.HumanoidRootPart.CFrame = CFrame.new(position.X, position.Y, position.Z)
         end
     end)
-
-    -- COPY TP BUTTON
+    
     local copyButton = Instance.new("TextButton")
     copyButton.Text = "COPY"
     copyButton.Size = UDim2.new(0.22, 0, 0.7, 0)
